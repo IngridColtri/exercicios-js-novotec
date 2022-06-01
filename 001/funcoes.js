@@ -1,0 +1,1 @@
+document.getElementById("mensagem").innerText = "Só quero minha casa"
